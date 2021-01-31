@@ -1,6 +1,6 @@
 Funding token will be used to fund projects.
 
-it will be some kind funding platform for investors into the real economy.
+it will be some kind funding platform for investors into the real economy. (no controlling body sadly, there is no crypto police or gov), you have to be aware of scams yourself
 
 investors will be able to pledge some amount of funding to a project, by staking it into the projects project contract,
 and in return they will get tokens from the project.
@@ -12,4 +12,52 @@ since it  can take a very long time before a project is fully funded it would be
 you will be able to earn stake rewards on the full amount pledged, if you actually will invest in the project when founding is finished.
 to withdraw before funding you will need to send the full amount pledged first.
 
-to be continued... 
+a first project could be to become an Eth validator and collect 32Eth to deposit to the validators address.
+the stake rewards will be spilt between the stakers of the project.
+
+for this project to have a future eth must do well.
+this token needs ethereum to transfer, as do all erc20 tokens do.
+Please be aware that this is a token and not a coin with a chain.
+
+there is actually no real reason for this token to be alive, since all funding could be done directly in ether instead of funding tokens.
+however, on its own its some kind of syntethic ether, but not a stablecoin or wrapped ether, some kind of derivative maybe.
+
+If there is no use for the tokens, then its also some kind of ponzi maybe. since the 2% gap between bid and ask will just be the profit of the old investors taken from the new. But in the big picuture of things, the world is just 1 big ponzi.
+
+the artifically created usecase for the tokens also enables some kind of leverage, however, its not intened to be trading leverage or something like that.
+The leverage allowes for the money to be at 2 places at the same time, collecting interests or doing whateverr money does.
+It enables dead money to be active again, but you are considered to own the amount you pledge or leverage! 
+
+Also, every project can fail on its own! a project will use the pledged funds on the day of launch. it means all leverage must be covered and the money is gone, used by the project to invest, en hopefully yield profit over time. 
+
+every project can scam people, the coins of a project are only backed with the emptry promise the coins bring! 
+
+for example:
+a restaurant could start a project, and promise BurgerCoins as stake reward.
+restaurant users will be able to buy BurgerCoins from burgerCoin owners, or they will be able to claim a free burger in the restaurant.
+the price of burger coin should track the price of the burger in the restaurant.  This Burger coin would be a great hedge against inflation, since the price of burgers will follow the inflation/economy.
+
+However, there could be many scams of restaurants or other projects, so always be aware.
+
+as long as a project is not fully funded, all investors will be able to withdraw at will.
+a lot investors might be in it just for the stake, and actually not planning to invest but withdraw before launching.
+every project should have a block number before they can launch.
+also must be fully funded, because they cannot start with half the money... 
+
+The price of Burger coin will probably not track the price of the burgers as long as the restaurant is not open. some burger owners might be selling for half the price or lower... but the more likely it becomes to get funded, the more the price should become in line with the price of the burgers in the restaurant.
+
+
+So basically the funding tokens are backed by eth, but you lose 2% if nobody else is trading it.
+there is also always going to be 1 coin stuck in the contract because i cannot divide by 0 and i haven't found a solution yet
+
+in the end its just a meme poopcoin, investing in poopcoins can yield significant losses.
+there is no legal or controlling bridge between a projects coin  and the real world, in other words, i cannot go check on every project to see if they making burgers or not... i can wrap a house in a coin, but there is no legal construction yet to make the owner of the coin the owner of the house. (at least not here and not that i know). 
+A token is not a share in a company, its not even a voucher for a free burger! but it would be great if that could change in the future, but regulation on crypto goes slow, but its here to stay! 
+
+You should consider funding a project like donating, and in return you get an empty promise and just hope the other party will fullfil it.
+however, fiat money is also just a promise, and so is debt, but thats normaal since money is debt and debt is money. 
+to be fair, if it is not eth or bitcoin, its a sjitcoin. (but they moon the hardest).
+
+
+
+
