@@ -1,3 +1,5 @@
+//need help with people testing the code for bugs and mistakes, must be full of them cause i found so much already.
+
 
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.6.0 <0.8.0;
