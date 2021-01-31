@@ -1,6 +1,6 @@
 Funding token will be used to fund projects.
 
-it will be some kind funding platform for investors into the real economy. (no controlling body sadly, there is no crypto police or gov), you have to be aware of scams yourself
+it will be some kind of funding platform for investors into the real economy. (no controlling body sadly, there is no crypto police or gov), you have to be aware of scams yourself
 
 investors will be able to pledge some amount of funding to a project, by staking it into the projects project contract,
 and in return they will get tokens from the project.
