@@ -1,0 +1,15 @@
+Funding token will be used to fund projects.
+
+it will be some kind funding platform for investors into the real economy.
+
+investors will be able to pledge some amount of funding to a project, by staking it into the projects project contract,
+and in return they will get tokens from the project.
+
+investors will be able to withdraw their support before a project is fully funded.
+they will also be able to use leverage on the pledge. meaning they willing to fund the project more in the future.
+since it  can take a very long time before a project is fully funded it would be sad for all the funds to be locked up waiting.
+
+you will be able to earn stake rewards on the full amount pledged, if you actually will invest in the project when founding is finished.
+to withdraw before funding you will need to send the full amount pledged first.
+
+to be continued... 
