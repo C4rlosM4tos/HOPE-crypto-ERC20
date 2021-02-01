@@ -1,7 +1,7 @@
-# FundingToken
-FT
+HOPE
 
-Poopcoin
+
+***Poopcoin*** erc20
 
 
 read what the coin does if you want to know more
