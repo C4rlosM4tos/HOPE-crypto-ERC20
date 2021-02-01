@@ -1,6 +1,8 @@
 # FundingToken
 FT
 
+Poopcoin
+
 contract is running on ropsten for testing:
 
 0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1
