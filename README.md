@@ -10,6 +10,10 @@ contract is running on ropsten for testing:
 
 0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1
 
+
+
+
+
 plz play around, use faucet eth
 
 https://faucet.ropsten.be/
@@ -17,6 +21,8 @@ https://faucet.dimensions.network/
 https://faucet.metamask.io/
 
 
+
+this will show you how to use remix, if you copy paste ft.sol there and deploy the contract at address then you can interact with it (using metamask)
 
 
 plz help to find bugs, errors or bad code.
