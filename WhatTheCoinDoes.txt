@@ -1,6 +1,11 @@
+the short version: nothing
+
+
+the long version:
+
 Funding token will be used to fund projects.
 
-it will be some kind of funding platform for investors into the real economy. (no controlling body sadly, there is no crypto police or gov), you have to be aware of scams yourself
+it will be some kind of funding platform for investors into the real economy. (no controlling body sadly, there is no crypto police or gov), you have to be aware of scams yourself.
 
 investors will be able to pledge some amount of funding to a project, by staking it into the projects project contract,
 and in return they will get tokens from the project.
@@ -9,20 +14,32 @@ investors will be able to withdraw their support before a project is fully funde
 they will also be able to use leverage on the pledge. meaning they willing to fund the project more in the future.
 since it  can take a very long time before a project is fully funded it would be sad for all the funds to be locked up waiting.
 
-you will be able to earn stake rewards on the full amount pledged, if you actually will invest in the project when founding is finished.
-to withdraw before funding you will need to send the full amount pledged first.
+you will be able to earn stake rewards on the full amount pledged, if you actually will invest in the project when funding is finished.
+to withdraw before funding you will need to send the full amount pledged first. staking schemes are for the project to decide...
+
+EXAMPLE:
 
 a first project could be to become an Eth validator and collect 32Eth to deposit to the validators address.
-the stake rewards will be spilt between the stakers of the project.
+the stake rewards will be spilt between the stakers of the project. however, the project owner could be a scammer! 
 
-for this project to have a future eth must do well.
-this token needs ethereum to transfer, as do all erc20 tokens do.
+
+
+REMARKS:
+
+for this project (funding token) to have a future eth must do well.
+the real value of the FT's is the eth its backed by. (and future trading fees as promised gains)
+this token needs ethereum so it can be moved around, all transactions will cost gas, and gas is not cheap! (for now)
+but this goes for all tokens.
 Please be aware that this is a token and not a coin with a chain.
 
-there is actually no real reason for this token to be alive, since all funding could be done directly in ether instead of funding tokens.
+there is actually no real reason for this token to be created,
+since all funding could be done directly in ether instead of funding tokens.
 however, on its own its some kind of syntethic ether, but not a stablecoin or wrapped ether, some kind of derivative maybe.
+its almost like an overpriced liquidity pool.
 
-If there is no use for the tokens, then its also some kind of ponzi maybe. since the 2% gap between bid and ask will just be the profit of the old investors taken from the new. But in the big picuture of things, the world is just 1 big ponzi.
+If there is no use for the tokens, then its also some kind of ponzi maybe.
+since the 2% gap between bid and ask will just be the profit of the old investors taken from the new. 
+But in the big picuture of things, the world is just 1 big ponzi, just think real estate... biggest ponzi on the planet after the usd? 
 
 the artifically created usecase for the tokens also enables some kind of leverage, however, its not intened to be trading leverage or something like that.
 The leverage allowes for the money to be at 2 places at the same time, collecting interests or doing whateverr money does.
@@ -57,6 +74,26 @@ A token is not a share in a company, its not even a voucher for a free burger! b
 You should consider funding a project like donating, and in return you get an empty promise and just hope the other party will fullfil it.
 however, fiat money is also just a promise, and so is debt, but thats normaal since money is debt and debt is money. 
 to be fair, if it is not eth or bitcoin, its a sjitcoin. (but they moon the hardest).
+
+a project should keep yielding stake rewards to the investors, until the debt is repaid.
+they can also chose perpertual stakes instead of paying back.
+its up to the project to attract investors with good deals
+
+GOVERNANCE
+
+governance tokens or rights will be created, but the allocation is still unclear so far and no code is written.
+
+The governance contract will be able to close funding rounds for projects.
+a project will be rejected when enough funding token right owners decide they think its a scam or something that is harmful for other people.
+Plz do not abuse the blockchain, but use it. i do not make this so people can fund a human trafficing network or drug cartel...
+But i would like to see the real economy grow by small projects getting funding they normally would not get. dreaming can't hurt right?
+
+there might be features added to governance, like putting the reserve or a part of it into tether instead of eth. 
+but that could be just a project too, with governance on the projects contract itself.
+
+
+
+
 
 
 
