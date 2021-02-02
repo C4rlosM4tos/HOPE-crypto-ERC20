@@ -26,7 +26,7 @@ you can go to Remix online ide, and add all the contracts. import using github l
 
 you might need to change the "import" location of some files, but i tried to flatten them out so its all ./filename
 
-If i can do it, you can do it even better.
+If i can do it, you can do it even faster.
 
 
 
