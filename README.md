@@ -28,6 +28,18 @@ Main contract is HOPE.sol
 0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1
 ----------------------------------------------------------------------
 
+started trading on contract at 1 FTM = 1.01 HOPE  putting 1 HOPE at 10 cents $ ponzi market value.
+
+total market cap 20 cents. (contract can mint new coins based on deposits)
+
+fees paid to get the FTM and contract: 101 FTM
+
+wasted doing it wrong to ETH network: 110 FTM + 15$ eth
+
+stuck on eth network for pending contract: 0.4 eth
+
+expensive meme, but i must have HOPE !!!!
+
 - users should be able to sell less than 1 coin now (min tot value 1 wei).
 - removed bug of real value getting rounded when selling fraction of a coin.
 
