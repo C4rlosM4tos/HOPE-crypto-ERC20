@@ -22,8 +22,6 @@ https://faucet.metamask.io/
 
 
 
-this will show you how to use remix, if you copy paste ft.sol there and deploy the contract at address then you can interact with it (using metamask)
-
 
 plz help to find bugs, errors or bad code.
 maybe some things should be private or internal instead of public... 
