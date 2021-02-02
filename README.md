@@ -12,16 +12,18 @@ Main contract is HOPE.sol
 
 (0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1) (old contract)
 
-**** NEW CONTRACT ***
+**** NEW CONTRACT ROPSTEN  testnet ***
 
 0x22c1E7B6E8632F4ac949f309Cc86d935e7135739
 
 
 
+----------------------------------------------------------------------
 
 
+*** CONTRACT RUNNING ON FANTOM CHAIN (live) *** 
 
-*** CONTRACT RUNNING ON FANTOM CHAIN *** 
+(eth miners didn't want 500$ fee for 3hours+, i got tired waiting...
 
 0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1
 ----------------------------------------------------------------------
