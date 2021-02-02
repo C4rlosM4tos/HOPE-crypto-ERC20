@@ -8,6 +8,8 @@ read what the coin does if you want to know more
 
 contract is running on ropsten for testing:
 
+Main contract is HOPE.sol
+
 0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1
 
 
