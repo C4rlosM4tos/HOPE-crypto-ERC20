@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.6.0 <0.8.0;
 import "./ERC20.sol";
-import "../../math/SafeMath.sol";
+import "./SafeMath.sol";
 import "./ERC20Burnable.sol";
 
 contract HOPE is ERC20, ERC20Burnable {
