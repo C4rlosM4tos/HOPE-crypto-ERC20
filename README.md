@@ -4,6 +4,16 @@ HOPE
 ***Poopcoin*** erc20
 
 
+******************** LIVE ON MAIN NET Ethereum *****************
+
+0xf7F2cB7cFcD9557f13A06f6BD6Baf912D23a6b52
+
+
+
+price at both chains started the same, but both tokens aren't the same.
+you cannot send hope from the fantom chain to the ethereum chain and vice versa.
+
+
 read what the coin does if you want to know more
 
 contract is running on ropsten for testing:
