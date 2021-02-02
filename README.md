@@ -83,35 +83,14 @@ Better luck next time...
 https://etherscan.io/tx/0x0494af7fc4a89a130e836f17a5bcd6536c864b846694dc451d1019d50ccfb2c1
 
 
-so i lost 1000$ for a simple smart contract, i'm very sad now
 ----------------------------------------------------------------------
 
 
 *** CONTRACT RUNNING ON FANTOM CHAIN (live) *** 
 
-(eth miners didn't want 500$ fee for 3hours+, i got tired waiting...
 
 0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1
 ----------------------------------------------------------------------
-
-started trading on contract at 1 FTM = 1.01 HOPE  putting 1 HOPE at 10 cents $ ponzi market value.
-
-total market cap 20 cents. (contract can mint new coins based on deposits)
-
-fees paid to get the FTM and contract: 101 FTM
-
-wasted doing it wrong to ETH network: 110 FTM + 15$ eth
-
-stuck on eth network for pending contract: 0.4 eth
-
-expensive meme, but i must have HOPE !!!!
-
-- users should be able to sell less than 1 coin now (min tot value 1 wei).
-- removed bug of real value getting rounded when selling fraction of a coin.
-
-
-
-
 
 plz play around, use faucet eth
 
@@ -128,13 +107,3 @@ you might need to change the "import" location of some files, but i tried to fla
 If i can do it, you can do it even faster.
 
 
-
-plz help to find bugs, errors or bad code.
-maybe some things should be private or internal instead of public... 
-plz try to hack it if that is your skillset. (and let me know what to change after ;) )
-
-Thank you in advance
-
-
-
-(namechange in progress)
