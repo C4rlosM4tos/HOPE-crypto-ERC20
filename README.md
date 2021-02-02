@@ -18,6 +18,11 @@ Main contract is HOPE.sol
 
 
 
+
+great tech eth, no future like this:
+https://etherscan.io/address/0x80c9e63d9b46a146687ce8df86985ced50339a7c
+
+
 ----------------------------------------------------------------------
 
 
