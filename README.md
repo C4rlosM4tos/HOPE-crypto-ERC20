@@ -18,6 +18,12 @@ Main contract is HOPE.sol
 
 ----------------------------------------------------------------------
 
+- users should be able to sell less than 1 coin now (min tot value 1 wei).
+- removed bug of real value getting rounded when selling fraction of a coin.
+
+
+- notice: when buying and selling the first coins the price seemed to have pumped from 100 to 6000 wei, something wrong with payout leaving too much funds in the contract or what?
+
 
 
 plz play around, use faucet eth
