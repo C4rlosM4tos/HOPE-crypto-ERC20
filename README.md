@@ -4,6 +4,36 @@ HOPE
 https://info.uniswap.org/token/0xf7F2cB7cFcD9557f13A06f6BD6Baf912D23a6b52
 
 
+
+***** HOW TO UNISWAP **********
+
+the easy way: download the metamask plugin (if not using brave) so you can easily connect to web3 websites.
+
+Uniswap also supports some wallets:
+- walletconnect
+- coinbasewallet
+- Portis
+- Fortmatic
+
+
+Just go to the website and click: use uniswap
+
+metamask should popup to ask if it is allowed to connect to the wallet.
+you can also click on "connect to wallet' on top right corner if it doesn't go auto.
+
+On select a token, give the contract address of the token you want to buy:
+
+For HOPE:
+
+0xf7F2cB7cFcD9557f13A06f6BD6Baf912D23a6b52
+
+
+
+
+
+
+
+
 Buy the coin from the smart contract and add liquidity plz, i already had to sell some corn to get enough eth.
 This meme costed much more than expected, but after that failed transaction it was too hard too leave.
 
