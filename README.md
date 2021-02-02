@@ -23,6 +23,13 @@ great tech eth, no future like this:
 https://etherscan.io/address/0x80c9e63d9b46a146687ce8df86985ced50339a7c
 
 
+
+
+Better luck next time... 
+https://etherscan.io/tx/0x0494af7fc4a89a130e836f17a5bcd6536c864b846694dc451d1019d50ccfb2c1
+
+
+so i lost 1000$ for a simple smart contract, i'm very sad now
 ----------------------------------------------------------------------
 
 
