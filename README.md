@@ -10,9 +10,13 @@ contract is running on ropsten for testing:
 
 Main contract is HOPE.sol
 
-0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1
+(0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1) (old contract)
 
+**** NEW CONTRACT ***
 
+0x22c1E7B6E8632F4ac949f309Cc86d935e7135739
+
+----------------------------------------------------------------------
 
 
 
