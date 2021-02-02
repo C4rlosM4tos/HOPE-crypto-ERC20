@@ -92,7 +92,9 @@ https://etherscan.io/tx/0x0494af7fc4a89a130e836f17a5bcd6536c864b846694dc451d1019
 0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1
 ----------------------------------------------------------------------
 
-plz play around, use faucet eth
+
+
+ropsten testnet faucet:
 
 https://faucet.ropsten.be/
 https://faucet.dimensions.network/
@@ -102,8 +104,6 @@ https://faucet.metamask.io/
 
 you can go to Remix online ide, and add all the contracts. import using github link or manual.
 
-you might need to change the "import" location of some files, but i tried to flatten them out so its all ./filename
 
-If i can do it, you can do it even faster.
 
 
