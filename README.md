@@ -16,6 +16,14 @@ Main contract is HOPE.sol
 
 0x22c1E7B6E8632F4ac949f309Cc86d935e7135739
 
+
+
+
+
+
+*** CONTRACT RUNNING ON FANTOM CHAIN *** 
+
+0x9f166e3d840FF8804AF9E867BA5Cfc1cd1cF2Ca1
 ----------------------------------------------------------------------
 
 - users should be able to sell less than 1 coin now (min tot value 1 wei).
