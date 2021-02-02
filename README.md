@@ -1,6 +1,20 @@
 HOPE
 
 
+https://info.uniswap.org/token/0xf7F2cB7cFcD9557f13A06f6BD6Baf912D23a6b52
+
+
+Buy the coin from the smart contract and add liquidity plz, i already had to sell some corn to get enough eth.
+This meme costed much more than expected, but after that failed transaction it was too hard too leave.
+
+i actually tried to cancel it, but sadly didn't work. 
+
+Could use help with front-end.
+
+and if you have a project or dream  in mind you want to get fundend, plz keep following for the funding platform release.
+
+
+
 ***Poopcoin*** erc20
 
 
