@@ -44,7 +44,6 @@ expensive meme, but i must have HOPE !!!!
 - removed bug of real value getting rounded when selling fraction of a coin.
 
 
-- notice: when buying and selling the first coins the price seemed to have pumped from 100 to 6000 wei, something wrong with payout leaving too much funds in the contract or what?
 
 
 
