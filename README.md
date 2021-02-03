@@ -1,6 +1,9 @@
 HOPE
 
 
+Poopco.in
+
+
 https://info.uniswap.org/token/0xf7F2cB7cFcD9557f13A06f6BD6Baf912D23a6b52
 
 
